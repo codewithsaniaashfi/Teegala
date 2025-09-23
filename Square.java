@@ -1,4 +1,4 @@
-package com.tns.azlansami;
+package com.tns.sania;
 
 public class Square extends Shape {
 	int side = 14;
@@ -9,4 +9,5 @@ public class Square extends Shape {
 		super.area = side*side;
 	}
 }
+
 
